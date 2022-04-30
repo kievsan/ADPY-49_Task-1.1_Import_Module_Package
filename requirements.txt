@@ -1,0 +1,2 @@
+.application.salary.calculate_salary
+.application.db
